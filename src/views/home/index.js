@@ -6,7 +6,7 @@ class Home extends Component{
     render(){
 
         return <div>
-            home
+            首页
             {this.props.children}
         </div>
     }

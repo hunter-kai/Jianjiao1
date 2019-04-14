@@ -1,0 +1,23 @@
+.footer{
+    // background: #ff0;
+    position:fixed;
+    bottom:0;
+    // height: 100px;
+    width: 100%;
+}
+.footer .footer-ul{
+    // background: #f0f;
+    text-align: center;
+    border-top: 1px solid #eee;
+    
+}
+.footer .footer-ul li{
+    // float: left;
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 18px;
+    color: #000;
+    
+    
+}

@@ -1,0 +1,27 @@
+.navbar{
+    // background: #ff0;
+    height: 40px;
+    width: 100%;
+    // display:inline-block;
+    line-height: 40px;
+    font-size:15px;
+}
+
+.navbar p{
+    float:left;
+    font-size: 18px;
+    padding:0 10px;
+}
+
+.navbar div{
+    float:right;
+    margin-right: 5px;
+    margin-top: 5px;
+    height: 30px;
+    width: 270px;
+    background: #eee;
+    line-height: 30px;
+    border-radius: 15px;
+
+
+}

@@ -6,7 +6,7 @@ class Classification extends Component{
     render(){
 
         return <div>
-            fenlei
+            分类
         </div>
     }
 }

@@ -6,7 +6,7 @@ class My extends Component{
     render(){
 
         return <div>
-            wode
+            我的
         </div>
     }
 }
