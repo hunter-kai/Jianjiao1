@@ -7,9 +7,9 @@ class Navbar extends Component{
     render(){
 
         return <div className="navbar">
-            <p><NavLink >尖叫设计</NavLink></p>
+            <p>尖叫设计</p>
             <div>
-                <span><NavLink>搜索我的尖叫好物</NavLink></span>
+                <span ><NavLink>搜索我的尖叫好物</NavLink></span>
             </div>
         </div>
     }

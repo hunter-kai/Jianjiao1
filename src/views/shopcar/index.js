@@ -6,7 +6,7 @@ class Shopcar extends Component{
     render(){
 
         return <div>
-            gouwuche
+            shopcar
         </div>
     }
 }

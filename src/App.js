@@ -13,9 +13,7 @@ class App extends Component {
           this.props.children
         }
         <Tabbar />
-        {
-          this.props.children
-        }
+        
 
         
       </div>

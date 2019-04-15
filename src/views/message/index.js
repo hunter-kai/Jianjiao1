@@ -6,7 +6,7 @@ class Message extends Component{
     render(){
 
         return <div>
-            xinxi
+            Message
         </div>
     }
 }

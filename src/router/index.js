@@ -1,4 +1,4 @@
-import {HashRouter as Router, Route, Redirect, Switch} from "react-router-dom";
+import {BrowserRouter as Router, Route, Redirect, Switch} from "react-router-dom";
 import App from "../App";
 import React from "react";
 import Home from "../views/home/index";
@@ -10,6 +10,8 @@ import Activity from "../views/home/activity";
 import Recommended from "../views/home/recommended";
 import Household from "../views/home/household";
 import Furniture from "../views/home/furniture";
+
+
 
 const routes =(
     <Router>
